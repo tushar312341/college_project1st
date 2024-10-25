@@ -55,10 +55,34 @@ footer {
 a:hover {
     text-decoration: underline;
 }
-.profile-photo {
+/* .profile-photo {
     width: 150px;  
     height: auto;  
     border-radius: 50%;  
     display: block;
     margin: 0 auto;  
 }
+.profile {
+    text-align: center;
+    margin-top: 20px; /* Optional: add some space above */
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px; /* Optional: add some space above */
+}
+
+.profile-photo {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.profile-name {
+    font-size: 1.5em; /* Adjust font size as needed */
+    margin-top: 10px;
+    color: #333; /* Choose a color for the text */
+}
+ */
